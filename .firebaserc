@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chukkhuwala-final": {
+      "hosting": {
+        "chukkhuwala-yt": [
+          "chukkhuwala-final"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chukkhuwala-final"
+  }
+}
